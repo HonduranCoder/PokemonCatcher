@@ -1,4 +1,4 @@
-**Catcher page**
+**Catcher page** <br />
 User should be able to select one of 3 DIFFERENT pokemon and click the catch button. Then show the user 3 more (different) pokemon. After 10 pokemon are caught, redirect to the results page.
 
 **HTML Setup** <br />
