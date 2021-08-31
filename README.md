@@ -24,6 +24,8 @@ We figure out the id of the pokemon that was captured. <br />
 call catchPokemon(id) with this id <br />
 now, if pokeCaught > 10, redirect to the results page <br />
 call renderNewPokemon() <br />
+
+
 **Functions** <br />
 renderNewPokemon() <br />
 
