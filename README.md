@@ -1,7 +1,6 @@
 Catcher page
 User should be able to select one of 3 DIFFERENT pokemon and click the catch button. Then show the user 3 more (different) pokemon. After 10 pokemon are caught, redirect to the results page.
-<br />
-<br />
+
 HTML Setup
 Button
 3 divs with images to show the pokemon
