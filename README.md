@@ -1,11 +1,11 @@
 Catcher page
 User should be able to select one of 3 DIFFERENT pokemon and click the catch button. Then show the user 3 more (different) pokemon. After 10 pokemon are caught, redirect to the results page.
 
-HTML Setup
-Button
-3 divs with images to show the pokemon
+HTML Setup <br />
+Button  <br /> 
+3 divs with images to show the pokemon  <br />
 Radio buttons (hidden like in the rock paper scissors app)
-State
+State <br />
 How many times has the user caught a pokemon
 
 let pokeCaught = 0
