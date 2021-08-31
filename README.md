@@ -26,7 +26,8 @@ now, if pokeCaught > 10, redirect to the results page <br />
 call renderNewPokemon() <br />
 
 <br />
-**Functions** <br />
+**Functions** 
+<br />
 renderNewPokemon() <br />
 
 We need to find three unique pokemon to show the user <br />
