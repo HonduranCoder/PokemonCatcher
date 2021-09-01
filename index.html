@@ -19,30 +19,37 @@
         </div>
     </header>
     <main>
-        <section class="main-section">
+        <section class="main-section" id = "pokemon-section">
             <img class="main-logo" src="https://images.unsplash.com/photo-1605979257913-1704eb7b6246?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80" />
             <h2>
                 Welcome to Pokemon Catcher!
             </h2>
-            <div>
+           <div class = "pokemon-div" id = "pokemon-div">
+            
+            <div class = "card-div">
             <label> 
-                <input type='radio' name='hand' value='rock'>
-                <img  class='picture'src='assets\Rock Smiling.gif'/>
+                <input type='radio' name='Pokemon' value='poke1'>
+                <img  class='picture'src='' id = 'poke-image1' />
             </label>
             </div>
-            <div>
+            <div class = "card-div">
             <label> 
-                <input type='radio' name='hand' value='paper'>
-                <img class='picture'src= 'assets\Paperairplan.gif'/>
+               <input type='radio' name='Pokemon' value='poke2' id = 'poke-image2'/> 
+               <img class='picture'src= ''/> 
             </label>
             </div>
-            <div>
+            <div class = "card-div">
             <label> 
-                <input type='radio' name='hand' value='scissors'>
-                <img class ='picture' src='assets\Jade scissors.gif'/>
+                <input type='radio' name='Pokemon' value='poke3' id = 'poke-image3'/> 
+                <img class ='picture' src=''/> 
             </label>
             </div>
+            
+            </div>
+        
+            <div>
             <button id="pressgo" class="pressgo">Catch!</button>
+            </div>
 
         </section>
     </main>
