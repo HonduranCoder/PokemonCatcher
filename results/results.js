@@ -11,7 +11,7 @@ const arrayOfCaught = pokedex
 
 const arrayOfNames = pokedex
     .map(({ id }) => {
-        const pokemon = pokemonArray.find(item=> item.id === id);
+        const pokemon = pokemonArray.find(character=> character.id === id);
         return pokemon.pokemon;
     });
 
